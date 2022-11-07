@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb1e034ab8a546a787a3619069c1fbaa",
+    "_text_": "<p>&lt;b&gt;This is bold text &nbsp;&lt;/b&gt;<br>&lt;br/&gt;<br>&lt;br/&gt;<br>&lt;u&gt;This is underlined text&lt;/u&gt;<br>&lt;br/&gt;<br>&lt;br/&gt;<br>&nbsp;&lt;label style=\"color:#F25E22\"&gt;This is text with font color&lt;/label&gt;&nbsp;<br>&lt;br/&gt;<br>&lt;br/&gt;<br>&lt;i&gt;This is italic text&lt;/i&gt;<br>&lt;br/&gt;<br>&lt;br/&gt;<br>&lt;b&gt;This is&lt;/b&gt; &lt;sub&gt;Subscript&lt;/sub&gt;&nbsp;<br>&lt;br/&gt;<br>&lt;br/&gt;<br>&lt;b&gt;This is&lt;/b&gt;&lt;sup&gt;Superscript&lt;/sup&gt; &lt;br/&gt;&lt;br/&gt;<br>&lt;a href=\"http://www.kony.com\"&gt;This is link (Click to visit kony.com)&lt;/a&gt;<br>&lt;br/&gt;&lt;br/&gt;<br>&lt;b&gt;Below is an image&lt;/b&gt;&lt;br/&gt;<br>&lt;img src=\"http://www.fordesigner.com/imguploads/Image/cjbc/zcool/png20080525/1211728825.png\" alt=\"image\" height=\"50\" width=\"50\" &gt;&lt;/img&gt;</p>",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "RichText010092f2b32a547",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "kuid": "9cf8736d332f417982844ffa52db641e",
+    "name": "kony.ui.RichText",
+    "parent": "frmRich",
+    "pf": "frmRich",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

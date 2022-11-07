@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "9.34%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdb0f8335d2d424e894e64822fb81596",
+    "_top_": {
+        "type": "string",
+        "value": "728dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Button0b4beb5a153b24d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e7c04993fa904392a160466527b90ee8",
+                "srcKUID": "fcffac1aa419475dadf3d6161fa6ec06",
+                "wType": "Button"
+            }
+        },
+        "navHome": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "cf0917367b0a49c2af33eeaf270e1ffa",
+                "srcKUID": "db0365ae70994fe88b103e66dcede9ea",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "navHome",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "cf0917367b0a49c2af33eeaf270e1ffa",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmAni11",
+    "pf": "frmAni11",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "db0365ae70994fe88b103e66dcede9ea",
+    "wType": "UserWidgetInstance"
+}

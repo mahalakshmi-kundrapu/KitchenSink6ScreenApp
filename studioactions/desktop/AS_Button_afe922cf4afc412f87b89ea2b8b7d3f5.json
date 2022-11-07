@@ -1,0 +1,30 @@
+{
+	"AS_Button_afe922cf4afc412f87b89ea2b8b7d3f5": {
+		"id": "AS_Button_afe922cf4afc412f87b89ea2b8b7d3f5",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "g5b02fc715ff450cbc8f952238e7e607"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_c04cc4f6fe8140ca87c3d3eba8035451",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "RemoveItem",
+				"display": "RemoveItem",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

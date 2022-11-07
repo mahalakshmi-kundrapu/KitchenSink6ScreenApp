@@ -1,0 +1,30 @@
+{
+	"AS_Button_f5343f7b559d45a3892a06702fac94b7": {
+		"id": "AS_Button_f5343f7b559d45a3892a06702fac94b7",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "g61bbcbd5ac449ac9380ed9739051cce"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_de47e015db1e473f9d8e236990d02fe0",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "emailSendWithAttachment",
+				"display": "emailSendWithAttachment",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"AS_Button_b2630bba9274472593e27ca0050397b8": {
+		"id": "AS_Button_b2630bba9274472593e27ca0050397b8",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "h9e60361af884fa8b27102882b076ce6"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_ce4758f14ba94742a9d6da6de5e62a93",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "SecHdrWidoutTemplatesJS",
+				"display": "SecHdrWidoutTemplatesJS",
+				"inputparams": [
+					{
+						"name": "evenObj",
+						"value": "frmSecHdrWidoutTemplates.btnSegMulSelect.id"
+					}
+				],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

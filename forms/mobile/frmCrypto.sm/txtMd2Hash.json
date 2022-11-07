@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter String",
+    "_skin_": "scc68aeb2a174f55b1461b112d6a5a0b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtMd2Hash",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "89610cef65914425977be8d3d4742a6b",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyFlexContainer00edecd46bc3649",
+    "pf": "frmCrypto",
+    "placeholderskin": "s589b3363f3b433a8b8605cd48069c04",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

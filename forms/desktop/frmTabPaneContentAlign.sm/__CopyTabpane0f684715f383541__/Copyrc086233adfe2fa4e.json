@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2a424ab7110429692ab7b894ff8ece6",
+    "_text_": "<p>&lt;p&gt;KonyOne provides a world-class development environment and mobile middleware for both business &amp; consumer applications. KonyOne incorporates industry - tested scalability and supports every technology and deployment option available today - including truly native apps on all native OSs, thousands of devices including those with HTML5 capable browser, SPAs,Wrappers, Hybrids, and traditional URL-based applications.&lt;/p&gt;</p>",
+    "_top_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Copyrc086233adfe2fa4e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ea0c72bf3f5a47ed9fbbb38915eac8bc",
+    "name": "kony.ui.RichText",
+    "parent": "CopyTab08a4ad0ecd2b14f",
+    "pf": "frmTabPaneContentAlign",
+    "tabpaneId": "CopyTabpane0f684715f383541",
+    "wType": "RichText",
+    "widgetalignment": 5
+}

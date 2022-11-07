@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3b68e777c2644f4bbe97446471be171",
+    "_text_": "Button with completeRoundedCorner",
+    "_top_": {
+        "type": "string",
+        "value": "32%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "completeround",
+    "info": null,
+    "isvisible": true,
+    "kuid": "aaa721838bf9410eaf31a319ed60476d",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "wType": "Button",
+    "zindex": 1
+}

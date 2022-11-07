@@ -1,0 +1,129 @@
+{
+    "android": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "282828ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "desktopweb": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "bottom_left_border_color": "282828ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "282828ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 1,
+        "isForked": true,
+        "top_left_border_color": "282828ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 1,
+        "top_right_border_color": "282828ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 1
+    },
+    "font_color": "555555ff",
+    "font_name": "Helvetica",
+    "font_size": 126,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "iphone": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "kuid": "sba31c6d08674906b2409bed272b88bf",
+    "spaan": {
+        "bottom_left_border_color": "282828ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "282828ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 1,
+        "isForked": true,
+        "top_left_border_color": "282828ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 1,
+        "top_right_border_color": "282828ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 1
+    },
+    "spaip": {
+        "bottom_left_border_color": "282828ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "282828ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 1,
+        "isForked": true,
+        "top_left_border_color": "282828ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 1,
+        "top_right_border_color": "282828ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 1
+    },
+    "spawinphone8": {
+        "bottom_left_border_color": "282828ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "282828ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 1,
+        "isForked": true,
+        "top_left_border_color": "282828ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 1,
+        "top_right_border_color": "282828ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 1
+    },
+    "tabrcandroid": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "wType": "TextField",
+    "windows8": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    },
+    "winphone8": {
+        "background_gradient_bottom_color": "00f7ffff",
+        "background_gradient_top_color": "0000ff80",
+        "background_style": "vg",
+        "bg_type": "two",
+        "isForked": true
+    }
+}

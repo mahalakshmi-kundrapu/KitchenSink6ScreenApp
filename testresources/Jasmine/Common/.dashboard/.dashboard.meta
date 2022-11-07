@@ -1,0 +1,35 @@
+[
+    {
+        "testName": "SliderSelectedValue",
+        "result": "jasmineReport18-02-2021_11_32_19.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "18-02-2021 11:32:19",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "addContactTest",
+        "result": "jasmineReport17-02-2021_15_12_41.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "17-02-2021 15:12:41",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "addContactTest",
+        "result": "jasmineReport17-02-2021_15_11_39.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "17-02-2021 15:11:39",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Desktop",
+        "crashed": false
+    }
+]

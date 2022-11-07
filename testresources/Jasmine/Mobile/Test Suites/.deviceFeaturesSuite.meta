@@ -1,0 +1,23 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "deviceFeaturesSuite",
+    "testCaseInfo": [
+        "addContact.js",
+        "fetchContactRemoveContact.js",
+        "deviceInfo.js",
+        "localStoreGetItemSetItem.js",
+        "localStoreReadKey.js",
+        "localStoreRemoveItem.js",
+        "localStoreClearItem.js",
+        "createDatabaseshowData.js",
+        "insertDatabase.js",
+        "deleteDataInDatabase.js",
+        "updateDataInDatabase.js",
+        "generateHashCode.js",
+        "EncryptDecryptCryptoLibraries.js",
+        "registerShakeEvent.js"
+    ],
+    "usedBy": [
+        "allCasesPlan.js"
+    ]
+}

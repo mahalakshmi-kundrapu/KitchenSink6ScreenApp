@@ -1,0 +1,8 @@
+
+{
+"NSCalendarsUsageDescription" : "Using calendar for testing.",
+"NSCameraUsageDescription" : "Using camera for testing.",
+"NSPhotoLibraryUsageDescription" : "Using media for testing.",
+"NSContactsUsageDescription"     : "Using contacts for testing"
+}
+

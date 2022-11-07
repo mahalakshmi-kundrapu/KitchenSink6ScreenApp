@@ -1,0 +1,31 @@
+{
+	"AS_Button_7492aa21b0ce44199c03ac098a84cf3c": {
+		"id": "AS_Button_7492aa21b0ce44199c03ac098a84cf3c",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "0541625325e94dc3aa0a135469097cfd"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___79c76ba14fdc48e0b3a44dee19052b8a",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "doTransactioninsertData",
+				"display": "doTransactioninsertData",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

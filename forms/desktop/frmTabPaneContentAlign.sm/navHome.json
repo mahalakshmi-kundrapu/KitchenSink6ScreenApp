@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "9.34%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdb0f8335d2d424e894e64822fb81596",
+    "_top_": {
+        "type": "string",
+        "value": "897dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Button0b4beb5a153b24d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f09b25a7646240029fa6cbed042afefa",
+                "srcKUID": "fcffac1aa419475dadf3d6161fa6ec06",
+                "wType": "Button"
+            }
+        },
+        "navHome": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g56ac8989b3548fc8f6b62b95ad159e9",
+                "srcKUID": "db0365ae70994fe88b103e66dcede9ea",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "4dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "897dp"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "navHome",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g56ac8989b3548fc8f6b62b95ad159e9",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmTabPaneContentAlign",
+    "pf": "frmTabPaneContentAlign",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "db0365ae70994fe88b103e66dcede9ea",
+    "wType": "UserWidgetInstance"
+}

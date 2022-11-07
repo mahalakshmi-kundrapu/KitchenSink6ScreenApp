@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9cd3a241caf43ab95dca0bc3b9cb5bb",
+    "_text_": "TitleBar With background Color",
+    "_top_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "375dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn2",
+    "ide_onClick": "AS_Button_12ff86c0aaed4938ab2df28c1d8af3ed",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a381baf400b1416cbc6becc5eda68a09",
+    "name": "kony.ui.Button",
+    "parent": "frmTitlebar",
+    "pf": "frmTitlebar",
+    "wType": "Button"
+}

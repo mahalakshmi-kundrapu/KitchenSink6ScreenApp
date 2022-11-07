@@ -1,0 +1,27 @@
+{
+	"AS_Form_bd6688d563714cea9fbbee69d53b23fa": {
+		"id": "AS_Form_bd6688d563714cea9fbbee69d53b23fa",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "ee7117aa93b8446cba85bd9e25576d6a"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__b94930e810ae4f91aee6a3efb3599e5c",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmScrollBoxMenu.FlexScrollContainer0ccefa3a33c3b49.scrollToEnd();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

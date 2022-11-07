@@ -1,0 +1,31 @@
+{
+	"AS_Button_74705e90370c4586b3a882ee9833ee82": {
+		"id": "AS_Button_74705e90370c4586b3a882ee9833ee82",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "16f928d90f104840bb9d25ee21505797"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___d9c8187a845c4463a8b18a483b5d4671",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "multiSelect",
+				"display": "multiSelect",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

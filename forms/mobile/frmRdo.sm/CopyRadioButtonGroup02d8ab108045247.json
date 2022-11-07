@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "5.42%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s596bd3560694569bae229ce3b1ae7f6",
+    "_top_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "CopyRadioButtonGroup02d8ab108045247",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "cc00de9e49114c529e34bf157b07330a",
+    "masterdata": [
+        [
+            "rbg1",
+            "Radiobutton One"
+        ],
+        [
+            "rbg2",
+            "Radiobutton Two"
+        ],
+        [
+            "rbg3",
+            "Radiobutton Three"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "frmRdo",
+    "pf": "frmRdo",
+    "selectedkey": "rbg2",
+    "selectedkeyvalue": [
+        "rbg2",
+        "Radiobutton Two"
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

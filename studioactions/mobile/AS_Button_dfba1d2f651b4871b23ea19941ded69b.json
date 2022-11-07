@@ -1,0 +1,31 @@
+{
+	"AS_Button_dfba1d2f651b4871b23ea19941ded69b": {
+		"id": "AS_Button_dfba1d2f651b4871b23ea19941ded69b",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "11b81a94539943378de2383f14cc281b"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___bd46ccbcdb6e4c7abd4d38cd0d3c6099",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "CalendarRemoveEvent",
+				"display": "CalendarRemoveEvent",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

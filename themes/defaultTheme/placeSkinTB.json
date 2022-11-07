@@ -1,0 +1,20 @@
+{
+  "android": {
+    "isForked": true
+  },
+  "background_color": "0033ffff",
+  "bg_type": "one",
+  "border_color": "282828ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "ff00ffff",
+  "font_name": "Helvetica",
+  "font_size": 126,
+  "iphone": {
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "sc4db0eaa54e45c6b4fc0dc6701ec115",
+  "wType": "TextField"
+}

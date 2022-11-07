@@ -1,0 +1,263 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "label1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Savings Account"
+                }
+            },
+            [
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings1"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$600"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings2"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$6400"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings3"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "label1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Checking Account"
+                }
+            },
+            [
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking1"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$7700"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking2"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$100"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking3"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "label1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Credit Card Account"
+                }
+            },
+            [
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$200"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Titanium Card"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$200"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Gold Card"
+                    }
+                },
+                {
+                    "CopyLabel04346ffa8a6dc45": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "CopyLabel08e03c63a5bae4b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$200"
+                    },
+                    "Label0ce344e8fa06f4a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Silver Card"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "22",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "c55035a4a7654533838f2cddd9250011",
+    "groupcells": false,
+    "hasSections": true,
+    "id": "Segment03cf91ade280040",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "8493a762283b48819fa126c2d44993f2",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmSegBoxes",
+    "pf": "frmSegBoxes",
+    "retainselection": false,
+    "rowTemplateId": "c55035a4a7654533838f2cddd9250011",
+    "rowcounter": 2,
+    "rowfocusskin": "s9c531acf77e427abe2c96b24fbb8d31",
+    "rowskin": "sc0f2b0225bb40589ef0246e3cf2da6d",
+    "rowtemplate": "FBox0a1d4d1765e244e",
+    "screenlevelwidget": false,
+    "seccounter": 2,
+    "sectionHeaderTemplateId": "fad3dc113a734862a8c01aa6d595c2df",
+    "sectionheaderskin": "s0a1090385f74d318e7fd56bb1b1cbea",
+    "sectionheadertemplate": "flex1",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel04346ffa8a6dc45": "CopyLabel04346ffa8a6dc45",
+        "CopyLabel08e03c63a5bae4b": "CopyLabel08e03c63a5bae4b",
+        "FlexContainer003ebc9d7782c40": "FlexContainer003ebc9d7782c40",
+        "FlexContainer064294fd31eaf47": "FlexContainer064294fd31eaf47",
+        "FlexContainer08c32f2ecdb894c": "FlexContainer08c32f2ecdb894c",
+        "FlexContainer0b55d7a1e5fd841": "FlexContainer0b55d7a1e5fd841",
+        "Label0ce344e8fa06f4a": "Label0ce344e8fa06f4a",
+        "flex1": "flex1",
+        "label1": "label1"
+    },
+    "zindex": 1
+}

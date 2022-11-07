@@ -1,0 +1,53 @@
+{
+	"AS_Button_c2a06dc207a14a74acc452ba9581bf54": {
+		"id": "AS_Button_c2a06dc207a14a74acc452ba9581bf54",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "h9e60361af884fa8b27102882b076ce6"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_f0c33e2c1a4a49fbafb58bff2d95c036",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "segwidMultiTemplate",
+				"display": "segwidMultiTemplate",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			},
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_b72c6555535e4a03977de9d016d4a841",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "segWidoutRowtmplateJS",
+				"display": "segWidoutRowtmplateJS",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": false,
+				"source": "module"
+			},
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_c046643b59e3428e9ddd9eb989fde718",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmRowTemplates",
+				"formKUID": "71df393b243943759df503a994490eb2",
+				"mappings": {},
+				"mappingsOrder": [],
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn4\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

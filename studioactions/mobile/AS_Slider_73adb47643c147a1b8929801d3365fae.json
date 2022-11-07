@@ -1,0 +1,40 @@
+{
+	"AS_Slider_73adb47643c147a1b8929801d3365fae": {
+		"id": "AS_Slider_73adb47643c147a1b8929801d3365fae",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "selectedvalue"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "06822e55bc824347989317576e3ca91e"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___800317cad6c94544895ca6777845f25d",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "sliderOnSelection",
+				"display": "sliderOnSelection",
+				"inputparams": [
+					{
+						"name": "eventObject",
+						"value": " eventobject"
+					}
+				],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

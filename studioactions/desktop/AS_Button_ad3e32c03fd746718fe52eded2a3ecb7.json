@@ -1,0 +1,30 @@
+{
+	"AS_Button_ad3e32c03fd746718fe52eded2a3ecb7": {
+		"id": "AS_Button_ad3e32c03fd746718fe52eded2a3ecb7",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "g5b02fc715ff450cbc8f952238e7e607"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_h304b4b29f594ce8a88b3492a069b640",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "ClearItem",
+				"display": "ClearItem",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

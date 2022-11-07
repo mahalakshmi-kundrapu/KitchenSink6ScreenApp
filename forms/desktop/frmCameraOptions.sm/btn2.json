@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Camera With Form Overlay",
+    "_top_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn2",
+    "ide_onClick": "AS_Button_ea6873a1c01a4d4e8ac14be4fbb51530",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dd167699a8eb41f7b67af8766d47f046",
+    "name": "kony.ui.Button",
+    "parent": "frmCameraOptions",
+    "pf": "frmCameraOptions",
+    "wType": "Button",
+    "zindex": 1
+}

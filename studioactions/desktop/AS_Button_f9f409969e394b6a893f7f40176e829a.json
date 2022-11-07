@@ -1,0 +1,43 @@
+{
+	"AS_Button_f9f409969e394b6a893f7f40176e829a": {
+		"id": "AS_Button_f9f409969e394b6a893f7f40176e829a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "h9e60361af884fa8b27102882b076ce6"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_b261101510eb429993b7d609926c70d6",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "segwidDictionary",
+				"display": "segwidDictionary",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			},
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_c5f828d2060c4bad988ed36fdf081b5a",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDictView",
+				"formKUID": "cd27a61249924f8da70fb5ed0539a765",
+				"mappings": {},
+				"mappingsOrder": [],
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn3\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s06c1f0abaeb46ef9c6e0b3d6bcbe0b4",
+    "_text_": "ButtonClick here to get the selected data",
+    "_top_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btnSegMulSelect",
+    "ide_onClick": "AS_Button_74705e90370c4586b3a882ee9833ee82",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8c2aa170020643dd95a42b16b0dcd80e",
+    "name": "kony.ui.Button",
+    "parent": "frmSecHdrWidoutTemplates",
+    "pf": "frmSecHdrWidoutTemplates",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,70 @@
+{
+    "android": {
+        "isForked": true
+    },
+    "background_color": "d4bad4ff",
+    "bg_type": "one",
+    "border_color": "595959ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "595959ff",
+    "font_name": "Helvetica",
+    "font_size": 156,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "iphone": {
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kuid": "s6d17263a04e4d679d5d3db21f204dcb",
+    "spaan": {
+        "bottom_left_border_color": "595959ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 0,
+        "bottom_right_border_color": "595959ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 0,
+        "isForked": true,
+        "top_left_border_color": "595959ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 0,
+        "top_right_border_color": "595959ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 0
+    },
+    "spaip": {
+        "bottom_left_border_color": "595959ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 0,
+        "bottom_right_border_color": "595959ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 0,
+        "isForked": true,
+        "top_left_border_color": "595959ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 0,
+        "top_right_border_color": "595959ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 0
+    },
+    "spawinphone8": {
+        "bottom_left_border_color": "595959ff",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 0,
+        "bottom_right_border_color": "595959ff",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 0,
+        "isForked": true,
+        "top_left_border_color": "595959ff",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 0,
+        "top_right_border_color": "595959ff",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 0
+    },
+    "wType": "DataGrid",
+    "winphone8": {
+        "isForked": true
+    }
+}

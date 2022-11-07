@@ -1,0 +1,215 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "label1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Basic Widgets"
+                }
+            },
+            [
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Button"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Calendar"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checkbox"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Combobox"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Datagrid"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Image"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Link"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Listbox"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "RadioButtonGroup"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Richtext"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Slider"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TextArea"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Textbox"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "List"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Nested List"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Icons"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowHeight_": "8.04248861911988%",
+    "_rowWidth_": "100%",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "016",
+    "defaultunit": 0,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segFirst",
+    "ide_onRowClick": "AS_Segment_e285f664eba44b96a618faebbedcaa62",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "c0d4142e73f14d1ab0a2d306d7218676",
+    "layouttype": 4,
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmBasicWidgets",
+    "pf": "frmBasicWidgets",
+    "retainselection": false,
+    "rowTemplateId": "eacb823e6713443a9ba6a021a634443a",
+    "rowcounter": 16,
+    "rowfocusskin": "s9c531acf77e427abe2c96b24fbb8d31",
+    "rowskin": "sc0f2b0225bb40589ef0246e3cf2da6d",
+    "rowtemplate": "flex2segFirstfrmBasicWidgets",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "72028fbf6e5b4686b72cd865509cf0e7",
+    "sectionheaderskin": "s0a1090385f74d318e7fd56bb1b1cbea",
+    "sectionheadertemplate": "flex1segFirstfrmBasicWidgets",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flex1segFirstfrmBasicWidgets": "flex1segFirstfrmBasicWidgets",
+        "flex2segFirstfrmBasicWidgets": "flex2segFirstfrmBasicWidgets",
+        "label1": "label1",
+        "label2": "label2"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-0.27%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2666ec5a46746a1be61f979e7866a5c",
+    "_top_": {
+        "type": "string",
+        "value": "61.55%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopySwitch030efd0ca153549",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "cd4060e973fb4ebdb9b7e6639ad9ee65",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "osPlatform": "winphone8",
+    "osVersion": "iOS7",
+    "parent": "frmSwitch",
+    "pf": "frmSwitch",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 1
+}

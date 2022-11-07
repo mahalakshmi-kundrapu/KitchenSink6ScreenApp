@@ -1,0 +1,35 @@
+{
+	"AS_Button_a677832987c34f0ea54f500eaf4677d0": {
+		"id": "AS_Button_a677832987c34f0ea54f500eaf4677d0",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "h9e60361af884fa8b27102882b076ce6"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_e91548794c54400bbd444978626b93fb",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "SecHdrWidoutTemplatesJS",
+				"display": "SecHdrWidoutTemplatesJS",
+				"inputparams": [
+					{
+						"name": "evenObj",
+						"value": " eventobject"
+					}
+				],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

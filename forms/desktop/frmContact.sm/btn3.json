@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Remove Contact",
+    "_top_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn3",
+    "ide_onClick": "AS_Button_hb2ac8b1e1bd438f993a345b3dc59946",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d62c7209d6244a868610f3ca6e64e9f3",
+    "name": "kony.ui.Button",
+    "parent": "frmContact",
+    "pf": "frmContact",
+    "wType": "Button",
+    "zindex": 1
+}

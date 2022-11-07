@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Inverted Cylinder View",
+    "_top_": {
+        "type": "string",
+        "value": "71%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn9",
+    "ide_onClick": "AS_Button_d58da3f827aa438a93499a280e78848a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "791d4b17027a4f2cbfc0b83458d200e6",
+    "name": "kony.ui.Button",
+    "parent": "frmSegOptions",
+    "pf": "frmSegOptions",
+    "wType": "Button",
+    "zindex": 1
+}

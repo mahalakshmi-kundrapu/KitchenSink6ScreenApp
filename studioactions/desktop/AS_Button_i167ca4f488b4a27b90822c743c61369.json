@@ -1,0 +1,43 @@
+{
+	"AS_Button_i167ca4f488b4a27b90822c743c61369": {
+		"id": "AS_Button_i167ca4f488b4a27b90822c743c61369",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "bfb35b596dda47cc9ea131db2d5e5b56"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_f36a4b4e99cf4d51a728fed0dcaa4189",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "deviceInfoFunction",
+				"display": "deviceInfoFunction",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			},
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_c747755e5edc4f46be97f63dbec630a2",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDeviceInfo",
+				"formKUID": "7856ba87ec354809a63f327b5249a67a",
+				"mappings": {},
+				"mappingsOrder": [],
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn9\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

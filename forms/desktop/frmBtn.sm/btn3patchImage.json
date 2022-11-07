@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3ec4f9d19c24e599783d4fbff4ed7af",
+    "_text_": "Button with 3 patch Image",
+    "_top_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn3patchImage",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fff46935cd074f5ebb7082d41af63ac3",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "wType": "Button",
+    "zindex": 1
+}

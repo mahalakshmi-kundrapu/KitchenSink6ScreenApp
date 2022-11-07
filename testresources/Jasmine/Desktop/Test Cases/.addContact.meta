@@ -1,0 +1,12 @@
+{
+    "testCaseName": "addContact",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "_currentForm": "frmContact",
+    "timeout": 0,
+    "usedBy": [
+        "deviceFeaturesSuite.js",
+        "allCases.js"
+    ],
+    "userCode": true
+}

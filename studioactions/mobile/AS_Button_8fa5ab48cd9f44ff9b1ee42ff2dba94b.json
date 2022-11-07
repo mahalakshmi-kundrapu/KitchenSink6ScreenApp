@@ -1,0 +1,31 @@
+{
+	"AS_Button_8fa5ab48cd9f44ff9b1ee42ff2dba94b": {
+		"id": "AS_Button_8fa5ab48cd9f44ff9b1ee42ff2dba94b",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "47007cd1a5614128b130b4bfa06e39c0"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___509b4379abc0464d98d474f005e5117f",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "Encrypt",
+				"display": "Encrypt",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

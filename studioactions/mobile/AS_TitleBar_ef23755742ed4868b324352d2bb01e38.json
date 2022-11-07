@@ -1,0 +1,22 @@
+{
+	"AS_TitleBar_ef23755742ed4868b324352d2bb01e38": {
+		"id": "AS_TitleBar_ef23755742ed4868b324352d2bb01e38",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__674cfb028c4547689ddf082be80d52c3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "alert('hi');",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

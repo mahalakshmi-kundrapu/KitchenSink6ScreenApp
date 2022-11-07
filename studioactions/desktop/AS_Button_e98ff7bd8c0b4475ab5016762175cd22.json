@@ -1,0 +1,33 @@
+{
+	"AS_Button_e98ff7bd8c0b4475ab5016762175cd22": {
+		"id": "AS_Button_e98ff7bd8c0b4475ab5016762175cd22",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "cb75151d2fb3437097418ad62b296850"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_ad3004b75d994cb59b3e8ff27e7e6b72",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmImgCrop",
+				"formKUID": "1d0851d69d64489eba1421782e7742fa",
+				"mappings": {},
+				"mappingsOrder": [],
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn3\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

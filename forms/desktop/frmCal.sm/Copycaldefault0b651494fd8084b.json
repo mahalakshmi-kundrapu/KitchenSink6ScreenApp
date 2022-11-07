@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "_data_": null,
+    "_date_": "19/7/2016",
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s41ee9c372e243e88d2926a0e8513218",
+    "_top_": {
+        "type": "string",
+        "value": "44.77%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "advview": "popup",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        19,
+        7,
+        2016,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yy",
+    "day": 19,
+    "daytextalignmentincell": 5,
+    "format": "MM/dd/yy",
+    "formatteddate": "07/19/16",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Copycaldefault0b651494fd8084b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e52a1edcf3cc41ee84e514e6732b8e85",
+    "minutes": 0,
+    "month": 7,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2016",
+    "parent": "frmCal",
+    "pf": "frmCal",
+    "seconds": 0,
+    "selectdate": "//2016",
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "popup",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2016,
+    "zindex": 1
+}

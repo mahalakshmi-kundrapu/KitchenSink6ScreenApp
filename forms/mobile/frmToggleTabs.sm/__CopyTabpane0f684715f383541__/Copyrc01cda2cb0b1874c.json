@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2a424ab7110429692ab7b894ff8ece6",
+    "_text_": "<p>&lt;p&gt;Solutions for your customers, employees, vendors and partners.Configurable, &nbsp;Extensible with Universal Integration.Stunning User Experience.Support for All Technologies and Devices.<br>&lt;/p&gt;</p>",
+    "_top_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Copyrc01cda2cb0b1874c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ba9d609b7f32438d8f944f82661d6d0d",
+    "name": "kony.ui.RichText",
+    "parent": "CopyTab000045e6c9d244b",
+    "pf": "frmToggleTabs",
+    "tabpaneId": "CopyTabpane0f684715f383541",
+    "wType": "RichText",
+    "widgetalignment": 5
+}

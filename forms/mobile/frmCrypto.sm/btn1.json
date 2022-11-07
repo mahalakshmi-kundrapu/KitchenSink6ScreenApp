@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c008979f15443b9070a4a2de4da7d8",
+    "_text_": "ENCRYPT",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn1",
+    "ide_onClick": "AS_Button_8fa5ab48cd9f44ff9b1ee42ff2dba94b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b11e73b3709a47d2a70310aefe907e54",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0830f4ff0aebf40",
+    "pf": "frmCrypto",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,2028 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "Label005c06e2d010e41": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s04b21fdb8c24251af0bd19baaeb514e",
+        "_text_": "Label with HelveticaNeue font",
+        "_top_": {
+            "type": "string",
+            "value": "110%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label005c06e2d010e41",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "259ca3402c614128afc01252fa7773cf",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "gMAZesXEirhvS3Ovo06KRRgCfAU="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label01c8f583d522b4c": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s7346f1cd9f0445ab2ee0cf635be694e",
+        "_text_": "Label with italic text",
+        "_top_": {
+            "type": "string",
+            "value": "78%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label01c8f583d522b4c",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "93f0f89843bd4796b8b5a0e43e7259b0",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "mUSktBzfsY+Pi+WtnpDK0EKorqI="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label047c86869b6cd47": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sb1f4aafa2e04f6681094da3ef91dad7",
+        "_text_": "Label with Arial  font",
+        "_top_": {
+            "type": "string",
+            "value": "90%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label047c86869b6cd47",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "9eeff98db0624faf858949227db88bdf",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "DtxzjUU44Y9eC/eG4La+H/hu9bU="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label04a700f93bcb141": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sc533e594eb347d78ec6fa80056b81b6",
+        "_text_": "Label with shadow radius:50",
+        "_top_": {
+            "type": "string",
+            "value": "142%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label04a700f93bcb141",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "c74deae665e141c18fc38af99920b393",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "/t68yY9Rxo9kb+sBxLX9FZouXIg="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0538c918ad1f647": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s1bae504d06d40fb8906bb4e571ca12a",
+        "_text_": "Label with text underlined",
+        "_top_": {
+            "type": "string",
+            "value": "84%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0538c918ad1f647",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "0170798e6fb044f799c3054df72ebfb9",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "T63OxKtp1ugAZtzLBzZDwMTPss8="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label054bde51ac31244": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sbea3de3878745fea7129b7a5a64b5ea",
+        "_text_": "Label with Default Bold font",
+        "_top_": {
+            "type": "string",
+            "value": "53%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label054bde51ac31244",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "803f143760e540e49d13da773e1b73df",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "HxrdBsOmddsyD8BRas8XbB6B3mc="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0762740d82c214e": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "seff9a1dfb3a478ea5481b398e4ecdb7",
+        "_text_": "Label with Helvetica font",
+        "_top_": {
+            "type": "string",
+            "value": "105%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0762740d82c214e",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "8199132d2e044852b2e4c1dec6c94aa1",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "BA/gfztm5WzPgGX4HwqxCuZygpg="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label07b32a5a37e5f4c": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s36f20c256474d1b80c6c5d4edaa6fc4",
+        "_text_": "Label with Georgia font",
+        "_top_": {
+            "type": "string",
+            "value": "125%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label07b32a5a37e5f4c",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "df436e0f90784c2caf5c3394547dcbc8",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "JqA6HzewxygFFHEE691AEsCWWr0="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0847490be299e47": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s493e6db180143bb883702e9780da235",
+        "_text_": "Label with serif font",
+        "_top_": {
+            "type": "string",
+            "value": "67%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0847490be299e47",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "ab3dffdacc064b0889cd1d2d7b423b28",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "fGtoHlIB5wTpnRt49we12mPhQVg="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label08b1edb322fa443": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s4371db0b5314041ae390002c3312a5c",
+        "_text_": "Label with Zapfino font",
+        "_top_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label08b1edb322fa443",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "e27e2a1b53fe48f3911f004ceceda3da",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "tVjBtsYQu0TdQKG3jWI+N3tTIEA="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0b0498aed7d5c4f": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s569040787df4ddea0f3318fe381bf52",
+        "_text_": "Label with bold text",
+        "_top_": {
+            "type": "string",
+            "value": "72%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0b0498aed7d5c4f",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "cd496960f9c74d2b83c1abf372f71e64",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "gPrNsPnIbtLrhMGKh56aXnqmO5o="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0d9f437cbf61941": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s17e6f542d884b9491336fc7325f61cd",
+        "_text_": "Label with Courier font",
+        "_top_": {
+            "type": "string",
+            "value": "95%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0d9f437cbf61941",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "adc5b17748e64faf9a3f517a6d5df709",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "Iydb6XtrHKuHDVSLsRhUZkr98DM="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0dcc8bcfb736c47": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s8e858951c6c4fdb8791a42c3e13b576",
+        "_text_": "Label with sans_serif font",
+        "_top_": {
+            "type": "string",
+            "value": "62%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0dcc8bcfb736c47",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "ac76c3325ebe45a7a6a059862caba34b",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "Xrf26Lh0camQN0vmVjVa8nU7GNU="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0e763551370874e": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sf221f31c0ea4f3088bf4601c750bcd8",
+        "_text_": "Label with shadow radius:10",
+        "_top_": {
+            "type": "string",
+            "value": "135%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0e763551370874e",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "9f66e2dffeeb4054a36802afa9d83c0a",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "7AhVLARa8RtxaTaKHLMCdrgUGxk="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0ee43e72a300f4a": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sf38ea02603c4254b082e5d22447f985",
+        "_text_": "Label with TimesnewromanPSMT font",
+        "_top_": {
+            "type": "string",
+            "value": "120%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0ee43e72a300f4a",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "1210ad9900cb43cda747482399d5951f",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "r7X/IpHG+e7i7p5cN4wpZ1fJwnY="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0f7a0f3f18a9a43": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sc5ae79f40ea4fb2bac89377e2d7bcdf",
+        "_text_": "Label with Verdana font",
+        "_top_": {
+            "type": "string",
+            "value": "115%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0f7a0f3f18a9a43",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "c21292e8707a4d84bea44c567771ee1c",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "78ZXkX483NBZ8AG9FCFOCs6CgEI="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0fa00070bdb414c": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93c049ad2cd4ec0bb5cb956cfdd9e4f",
+        "_text_": "Label with TrebuchetMS font",
+        "_top_": {
+            "type": "string",
+            "value": "130%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0fa00070bdb414c",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "817a79dda60546c4b4c1394bcfc0efdc",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "+AM/m8ZanWLt3/KqFXXT8v/yrLQ="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "Label0ffcd6f6e2f0648": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s81b97bded214192bb5a65fdd2c2ed23",
+        "_text_": "Label with monospace font",
+        "_top_": {
+            "type": "string",
+            "value": "57%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "Label0ffcd6f6e2f0648",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "776a6a3f4edd4e25896393224908068f",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "+ee3TFJmeYxdnLE9C29VO9XBfw4="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        89
+    ],
+    "_skin_": "s2569ba4728e4822bb4ea17f7c6bd3ae",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "ide_onDeviceBack": "AS_Form_cd175a56d4e14ce6860386c8534d8976"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "labl",
+        "defaultLabel",
+        "lblShadowRight",
+        "lblShadowLeft",
+        "lblshadowbottom",
+        "lblShadowTop",
+        "lblBgColor",
+        "lblVS",
+        "lblVG",
+        "Label054bde51ac31244",
+        "Label0ffcd6f6e2f0648",
+        "Label0dcc8bcfb736c47",
+        "Label0847490be299e47",
+        "Label0b0498aed7d5c4f",
+        "Label01c8f583d522b4c",
+        "Label0538c918ad1f647",
+        "Label047c86869b6cd47",
+        "Label0d9f437cbf61941",
+        "Label08b1edb322fa443",
+        "Label0762740d82c214e",
+        "Label005c06e2d010e41",
+        "Label0f7a0f3f18a9a43",
+        "Label0ee43e72a300f4a",
+        "Label07b32a5a37e5f4c",
+        "Label0fa00070bdb414c",
+        "Label0e763551370874e",
+        "Label04a700f93bcb141",
+        "navHome"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "defaultLabel": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s6afaefaf0464b3f9ef9c4ff790b0a75",
+        "_text_": "Default Label",
+        "_top_": {
+            "type": "string",
+            "value": "10%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "defaultLabel",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "1dba5a5fc50b42fcb53a64afd20cd63e",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "lHwr5DGGMNm5QLJvDnk+MrqW8os="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone11",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmLbl",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "invokedProperty": "footers",
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "a68ef91749724248a6f1a40994a3faa1",
+                "leftBarButtonItems": [
+                    {
+                        "kuid": "ddf4aa01008a4f0fbcea8055cc313acf",
+                        "leftButtonText": "Back",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "h7d4c4b921394c738d3f132efe26a0fd",
+                        "onClick": "",
+                        "style": 0,
+                        "tintColor": "333333",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "f33daf56363642669331353b96c84a10",
+    "labl": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "8.12%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sc222eb1d44d4f049a97624fd8412471",
+        "_text_": "Label",
+        "_top_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 5,
+        "id": "labl",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "c5bb6682bd4f45c19f6552120cfefe2c",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "cdNg+xQq1EUTuJch1f/KlT9uSu8="
+        },
+        "tooltip": "",
+        "wType": "Label"
+    },
+    "layouttype": 2,
+    "lblBgColor": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sab94d805e7a4df4b1b8e1f035d01b27",
+        "_text_": "Label with background color",
+        "_top_": {
+            "type": "string",
+            "value": "35%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblBgColor",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "1dcfe46bc23840208884bc1932568e7a",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "0U17NokJgrQgNzG5epow0tHYKQ4="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblShadowLeft": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s068496eea5445e7899fc00095964cec",
+        "_text_": "Label with Drop Shadow on Left",
+        "_top_": {
+            "type": "string",
+            "value": "20%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblShadowLeft",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "08b86cb6d7a94df0bbbf2af0d2c5681f",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "oVj7uB5o6u6LO/5kMSH+rg68Gj0="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblShadowRight": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s4b355cb4e0b4fa18e3c19ba6401d7b6",
+        "_text_": "Label with Drop Shadow on Right",
+        "_top_": {
+            "type": "string",
+            "value": "15%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblShadowRight",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "291de5962e574398a7be5351a59c820e",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "tdrRADkoNmwTXk2Evb+DeRU5AbE="
+        },
+        "textstyle": {},
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblShadowTop": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sbb701155a8246be805a6ecb2f736c46",
+        "_text_": "Label with Drop Shadow on Top",
+        "_top_": {
+            "type": "string",
+            "value": "30%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblShadowTop",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "19014161638d49d2bf5062ad8df383a5",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "6gFU7z99ldpxkxZlOxR/w0+zcfs="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblVG": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s1ec6a4a4bfa467aabf2f9e3c21b4a56",
+        "_text_": "Label with Vertical Gradient",
+        "_top_": {
+            "type": "string",
+            "value": "47%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblVG",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "0d0d9fa27a414014af6ba9b129f850fe",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "/AdkjtmMzyB84pcaCy4v8/k0IEA="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblVS": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "saa4a46340e44eb4a0b8e72eeb9a5999",
+        "_text_": "Label with Vertical Split",
+        "_top_": {
+            "type": "string",
+            "value": "41%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblVS",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "2e59e004cc6f43d9b8be428092f3fcd7",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "k+GEIW0W6RpK9bi7ef8X7+qS4ns="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "lblshadowbottom": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "_height_": {
+            "type": "string",
+            "value": "5%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0.03%"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "see1b7113f7349469fbe82db2cd5ecc6",
+        "_text_": "Label with Drop Shadow on Bottom",
+        "_top_": {
+            "type": "string",
+            "value": "25.00%"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblshadowbottom",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "fc2b015bc72d47cdbbade07a6f2fea80",
+        "name": "kony.ui.Label",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "snapshot": {
+            "md5": "VfpMLndI+S8PozVYHZD4mzTLDPg="
+        },
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "name": "kony.ui.Form2",
+    "navHome": {
+        "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+        "DNDConfig": null,
+        "_children_": [],
+        "_height_": {
+            "type": "string",
+            "value": "9.34%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 1,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "sdb0f8335d2d424e894e64822fb81596",
+        "_top_": {
+            "type": "string",
+            "value": "693dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "areflexpropsreferenced": false,
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "clipbounds": true,
+        "containerweight": 0,
+        "dataDiffs": {
+            "Button0b4beb5a153b24d": {
+                "__events__": {},
+                "__info__": {
+                    "kuid": "e9e5f9fe33df4507bd4e781391deca18",
+                    "srcKUID": "fcffac1aa419475dadf3d6161fa6ec06",
+                    "wType": "Button"
+                }
+            },
+            "navHome": {
+                "__events__": {},
+                "__info__": {
+                    "isRoot": true,
+                    "kuid": "c74ef5cfa2c342bc977ea9e970ebfffd",
+                    "srcKUID": "db0365ae70994fe88b103e66dcede9ea",
+                    "wType": "FlexContainer"
+                }
+            }
+        },
+        "enablescrolling": true,
+        "id": "navHome",
+        "info": null,
+        "iscustomlayout": false,
+        "isdatareferenced": false,
+        "isvisible": true,
+        "kuid": "c74ef5cfa2c342bc977ea9e970ebfffd",
+        "layouttype": 2,
+        "masterType": 0,
+        "name": "kony.ui.UserWidgetInstance",
+        "parent": "frmLbl",
+        "pf": "frmLbl",
+        "retaincontentalignment": false,
+        "retainflexpositionproperties": false,
+        "retainflowhorizontalalignment": false,
+        "snapgridsize": 10,
+        "snapshot": {
+            "md5": "t29hqBT1E/NU/zendznl6tSOf0U="
+        },
+        "snaptogrid": true,
+        "sourceUserWidget": "db0365ae70994fe88b103e66dcede9ea",
+        "wType": "UserWidgetInstance"
+    },
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snapshot": {
+        "md5": "9vW1B7bVs7swzeGEaJOpxIzeG2o="
+    },
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

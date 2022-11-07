@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s737da0173484742b68f404c6435c8b0",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "imgCamPortrait",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "i29080e056a044cf81e3db99fc023876",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0361c871b81ff4f",
+    "pf": "frmCamOrient",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

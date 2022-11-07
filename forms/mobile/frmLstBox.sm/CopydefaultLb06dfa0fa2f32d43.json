@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s221b06c573c4052a053b9b145ada2e0",
+    "_top_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "groupcells": true,
+    "id": "CopydefaultLb06dfa0fa2f32d43",
+    "info": null,
+    "iphone": {
+        "psp": {},
+        "render": true,
+        "viewConfig": {
+            "toggleViewConfig": {
+                "enableTintColor": true,
+                "equalSegments": false,
+                "tintColor": "ff660000",
+                "viewStyle": 1
+            }
+        },
+        "viewType": 2
+    },
+    "isvisible": true,
+    "kuid": "b213f1d0fb9a476cb25b3bbb96c0f156",
+    "masterdata": [
+        [
+            "lb1",
+            "Listbox One"
+        ],
+        [
+            "lb2",
+            "Listbox Two"
+        ],
+        [
+            "lb3",
+            "Listbox Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "frmLstBox",
+    "pf": "frmLstBox",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Listbox One"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 1
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

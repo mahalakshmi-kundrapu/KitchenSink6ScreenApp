@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ae119379054c6586cc6b1d22930574",
+    "_text_": "In memory mode",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "accessmode": "inmemory",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "enableoverlay": true,
+    "id": "CopycameraFrmOverLay08293adcc25bc44",
+    "ide_onCapture": "AS_Camera_c0b617e890a44b87b31f473ce64068e6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f7fe6cf8887e49d6a6cf0985361ad491",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "frmCamAcsModes",
+    "pf": "frmCamAcsModes",
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    }
+}

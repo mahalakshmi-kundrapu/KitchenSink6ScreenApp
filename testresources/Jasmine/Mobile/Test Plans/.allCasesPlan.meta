@@ -1,0 +1,9 @@
+{
+    "groupName": "Test Plans",
+    "testRunnerName": "allCasesPlan",
+    "testSuiteInfo": [
+        "deviceFeaturesSuite.js",
+        "formAnimationsSuite.js",
+        "UISuite.js"
+    ]
+}

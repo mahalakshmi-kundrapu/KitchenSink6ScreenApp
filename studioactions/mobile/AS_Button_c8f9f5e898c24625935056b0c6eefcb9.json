@@ -1,0 +1,45 @@
+{
+	"AS_Button_c8f9f5e898c24625935056b0c6eefcb9": {
+		"id": "AS_Button_c8f9f5e898c24625935056b0c6eefcb9",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "c9f016d7d51744bbbf5181f4fb03a50e"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___49c3eb364b6245ffa0aa512d2acfd22e",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "regAccEvent",
+				"display": "regAccEvent",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			},
+			{
+				"id": "NAVIGATE_TO_FORM___33c9f86d28594a058cb6ebc34c4098f4",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmRegisterAccelerometer",
+				"formKUID": "521100bc9cc14553847724585eb8a01c",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn3\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

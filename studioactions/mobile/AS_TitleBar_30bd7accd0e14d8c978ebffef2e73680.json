@@ -1,0 +1,29 @@
+{
+	"AS_TitleBar_30bd7accd0e14d8c978ebffef2e73680": {
+		"id": "AS_TitleBar_30bd7accd0e14d8c978ebffef2e73680",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___39f3a10c3ba54d3aab75632f91be846b",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmTitlebar",
+				"formKUID": "75a3916780cf4edfa5a669425d57fe0f",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"buttonClosureLeftSideView\",\n        \"widgetId\": \"undefined\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

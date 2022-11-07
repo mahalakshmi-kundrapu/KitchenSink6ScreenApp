@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_image_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s5efd9ed241b4222bc8d70b630b36f34",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "rc1"
+    ],
+    "clipbounds": true,
+    "containerweight": 93,
+    "enablescrolling": true,
+    "id": "Tab1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f96a2b235fcd4411be7f46484dbe3cde",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "paddinginpixel": false,
+    "parent": "Tabpane",
+    "pf": "frmTabScreenlevel",
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "Tab1",
+    "tabpaneId": "Tabpane",
+    "wType": "Tab"
+}
