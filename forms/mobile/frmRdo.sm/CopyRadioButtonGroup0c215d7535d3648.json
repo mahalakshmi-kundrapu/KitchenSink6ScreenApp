@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "23%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s596bd3560694569bae229ce3b1ae7f6",
+    "_top_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        },
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "CopyRadioButtonGroup0c215d7535d3648",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "groupCells": true,
+            "viewType": 1
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "84ae34b2548f4b0b80ed80acc3e3cca4",
+    "masterdata": [
+        [
+            "rbg1",
+            "Radiobutton One"
+        ],
+        [
+            "rbg2",
+            "Radiobutton Two"
+        ],
+        [
+            "rbg3",
+            "Radiobutton Three"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "frmRdo",
+    "pf": "frmRdo",
+    "selectedkey": "rbg2",
+    "selectedkeyvalue": [
+        "rbg2",
+        "Radiobutton Two"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

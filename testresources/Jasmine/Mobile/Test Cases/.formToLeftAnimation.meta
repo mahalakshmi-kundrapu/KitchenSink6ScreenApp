@@ -1,0 +1,148 @@
+{
+    "testCaseName": "formToLeftAnimation",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "usedBy": [
+        "formAnimationsSuite.js",
+        "allCases.js"
+    ],
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmHome.segHome",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "784523b9-cee9-fd6c-a9d1-8b8d980ec9aa",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmHome.segHome"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmHome.segHome[0,1]",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmHome.segHome[0,1]",
+                    "widgetType": "segmentedui",
+                    "actionType": "click"
+                },
+                "UUID": "311b8007-260d-4ec9-a016-92142201d8fd"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAniAnd.segFirst",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "df3fdf0c-7573-0167-6101-7d60165c360f",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAniAnd.segFirst"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAniAnd.segFirst[0,4]",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmAniAnd.segFirst[0,4]",
+                    "widgetType": "segmentedui",
+                    "actionType": "click"
+                },
+                "UUID": "1a83f884-eb51-4034-8522-33c12464f6cd"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAni26.navHome.Button0b4beb5a153b24d",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "2e6a2000-bcec-c7ed-1cc7-89a0dd7d2df1",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAni26.navHome.Button0b4beb5a153b24d"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAni26.navHome.Button0b4beb5a153b24d",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmAni26.navHome.Button0b4beb5a153b24d",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "9f8589e7-cb54-43bb-af74-bdf07f57a7cd"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "frmAni26",
+    "timeout": 0
+}

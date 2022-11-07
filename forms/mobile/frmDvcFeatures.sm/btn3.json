@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Application settings",
+    "_top_": {
+        "type": "string",
+        "value": "104%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn3",
+    "ide_onClick": "AS_Button_1c50eeaf9d2d41b681749a25602f88b8",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "caffbca9886a49939983cdd3822e6356",
+    "name": "kony.ui.Button",
+    "parent": "frmDvcFeatures",
+    "pf": "frmDvcFeatures",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "wType": "Button",
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

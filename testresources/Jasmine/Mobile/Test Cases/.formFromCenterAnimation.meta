@@ -1,0 +1,174 @@
+{
+    "testCaseName": "formFromCenterAnimation",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "usedBy": [
+        "formAnimationsSuite.js",
+        "allCases.js"
+    ],
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmHome.segHome",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "feb2c26e-d151-8c20-c642-291d41f24609",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmHome.segHome"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmHome.segHome[0,1]",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmHome.segHome[0,1]",
+                    "widgetType": "segmentedui",
+                    "actionType": "click"
+                },
+                "UUID": "6a8eb941-028f-4f8f-996e-6a9824b24133"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAniAnd.segFirst",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "d8428f7a-9634-b06b-adab-0143e12822df",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAniAnd.segFirst"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAniAnd.segFirst[0,5]",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmAniAnd.segFirst[0,5]",
+                    "widgetType": "segmentedui",
+                    "actionType": "click"
+                },
+                "UUID": "ec102923-aec1-4f56-aec9-91bd2191c18d"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Wait in ms",
+            "metaEditable": true,
+            "dispMeta": "3000",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "4535883a-7997-eac5-80d5-e2b682e3dc87",
+                "messageType": "Wait",
+                "messageData": {
+                    "widgetType": "Wait",
+                    "metadata": {
+                        "waitTimeMS": "3000"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAni27.navHome.Button0b4beb5a153b24d",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "31ac764e-b133-8300-f713-910c83911a24",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAni27.navHome.Button0b4beb5a153b24d"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAni27.navHome.Button0b4beb5a153b24d",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "frmAni27.navHome.Button0b4beb5a153b24d",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "3f148437-e98c-459d-8d14-190c6ea5df75"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "frmAni27",
+    "timeout": 0
+}

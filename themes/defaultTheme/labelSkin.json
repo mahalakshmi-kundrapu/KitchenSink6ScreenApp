@@ -1,0 +1,120 @@
+{
+    "android": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "424242ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "fontSizeInPx": false,
+    "font_color": "424242ff",
+    "font_name": "Helvetica",
+    "font_size": 120,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "iphone": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "kuid": "s1a5c57ac3ba4eb39a2795b9db20bcc1",
+    "spaan": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "spaip": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "spaipad": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "wType": "Label",
+    "watchos": {
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "windows8": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    },
+    "winphone8": {
+        "background_color": "ffffff00",
+        "bg_type": "one",
+        "font_color": "ffffffff",
+        "font_size": 120,
+        "isForked": true
+    }
+}

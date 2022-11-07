@@ -1,0 +1,18 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "formAnimationsSuite",
+    "testCaseInfo": [
+        "formBottomLeftTopAnimation.js",
+        "formBottomTOpAnimation.js",
+        "formBottomTopStyleAnimation.js",
+        "formFromCenterAnimation.js",
+        "formfromLeftAnimation.js",
+        "formfromRightAnimation.js",
+        "formToLeftAnimation.js",
+        "formTopRightBottomAnimation.js",
+        "formToRightAnimation.js"
+    ],
+    "usedBy": [
+        "allCasesPlan.js"
+    ]
+}

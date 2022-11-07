@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-0.04%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Name",
+    "_skin_": "scc68aeb2a174f55b1461b112d6a5a0b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "TextFieldName",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ccffc04a8e5845ae8b85093ccf015e5d",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "placeholderskin": "s589b3363f3b433a8b8605cd48069c04",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

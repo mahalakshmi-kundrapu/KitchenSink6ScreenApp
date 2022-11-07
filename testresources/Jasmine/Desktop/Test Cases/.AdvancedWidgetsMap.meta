@@ -1,0 +1,12 @@
+{
+    "testCaseName": "AdvancedWidgetsMap",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "_currentForm": "frmAdvancedWidgets",
+    "timeout": 0,
+    "usedBy": [
+        "allCases.js",
+        "UISuite.js"
+    ],
+    "userCode": true
+}

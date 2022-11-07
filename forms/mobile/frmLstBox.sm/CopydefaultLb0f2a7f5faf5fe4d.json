@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s221b06c573c4052a053b9b145ada2e0",
+    "_top_": {
+        "type": "string",
+        "value": "61%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "applySkinsToPopup": true,
+            "popupIcon": "aboutusam.png",
+            "popupTitle": "I am Popup Title"
+        },
+        "render": true,
+        "viewType": 4
+    },
+    "applyskinstopopup": true,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "groupcells": true,
+    "id": "CopydefaultLb0f2a7f5faf5fe4d",
+    "info": null,
+    "iphone": {
+        "psp": {},
+        "render": false,
+        "viewType": 2
+    },
+    "isvisible": true,
+    "kuid": "f944b37a287f43e4b16b602a3ec5c276",
+    "masterdata": [
+        [
+            "lb1",
+            "Listbox One"
+        ],
+        [
+            "lb2",
+            "Listbox Two"
+        ],
+        [
+            "lb3",
+            "Listbox Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "frmLstBox",
+    "pf": "frmLstBox",
+    "popupicon": "aboutusam.png",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Listbox One"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

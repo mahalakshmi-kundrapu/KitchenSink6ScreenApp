@@ -1,0 +1,29 @@
+{
+	"AS_Button_b2361357e9d0489b8b5efd24022c886d": {
+		"id": "AS_Button_b2361357e9d0489b8b5efd24022c886d",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_da070b13d82f45d2a5c4e33d37e32c6d",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmBadge",
+				"formKUID": "ee1092abb0474525a502efbdc6027572",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

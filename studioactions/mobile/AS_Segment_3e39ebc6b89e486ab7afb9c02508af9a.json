@@ -1,0 +1,44 @@
+{
+	"AS_Segment_3e39ebc6b89e486ab7afb9c02508af9a": {
+		"id": "AS_Segment_3e39ebc6b89e486ab7afb9c02508af9a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "number",
+				"name": "sectionNumber"
+			},
+			{
+				"datatype": "number",
+				"name": "rowNumber"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "8a8b4b00cbc3493b9a190a903529e448"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___05b68816bc5c4bf0b1dc710fd8feccde",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "onClickOfFrmAniAndSeg",
+				"display": "onClickOfFrmAniAndSeg",
+				"inputparams": [
+					{
+						"name": "eventobj",
+						"value": " eventobject"
+					}
+				],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

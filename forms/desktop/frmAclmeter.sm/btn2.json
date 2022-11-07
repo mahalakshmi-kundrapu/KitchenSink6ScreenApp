@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Start monitoring acceleration",
+    "_top_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn2",
+    "ide_onClick": "AS_Button_a750f42788c346bbabc22c12730141fd",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bbf33795994a486c8c8009a765c5b54f",
+    "name": "kony.ui.Button",
+    "parent": "frmAclmeter",
+    "pf": "frmAclmeter",
+    "wType": "Button",
+    "zindex": 1
+}

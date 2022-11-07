@@ -1,0 +1,236 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Flip"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fade"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveIn"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Push"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Reveal"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Curl"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitHorizontalIn"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitVerticalIn"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitIn"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitRotateIn"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitHorizontalOut"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitVerticalOut"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitOut"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitRotateOut"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SwitchLeft"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SwitchRight"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cloth"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FlipRight"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FlipLeft"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Door"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RotateExchange"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveInFromBottom"
+            }
+        },
+        {
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveInFromTop"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "022",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "1b6ff7853e4a4885a77eab8bc816a78a",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segFirst",
+    "ide_onRowClick": "AS_Segment_b8fc1647d3654dc2b5a9319045e284ac",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "4cf6a28bdc7443b0ac9099b0583fc3ce",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmAni",
+    "pf": "frmAni",
+    "retainselection": false,
+    "rowTemplateId": "1b6ff7853e4a4885a77eab8bc816a78a",
+    "rowcounter": 22,
+    "rowfocusskin": "s9c531acf77e427abe2c96b24fbb8d31",
+    "rowskin": "sc0f2b0225bb40589ef0246e3cf2da6d",
+    "rowtemplate": "FBox0cbb3c04c64d342",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0a1090385f74d318e7fd56bb1b1cbea",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "lblFirst": "lblFirst"
+    },
+    "zindex": 1
+}

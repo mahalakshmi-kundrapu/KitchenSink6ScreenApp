@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ff3f93e5c14d9192bcb4b8a2c1533b",
+    "_text_": "Get Item",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "CopyButton080fb8c50a29540",
+    "ide_onClick": "AS_Button_hadf6602de9f4ab6a1e71670fb4137c7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ab2a07acbb7a48ff80912540f4753655",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexContainer0881b8eac20554f",
+    "pf": "frmLocalStore",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,36 @@
+{
+	"AS_Camera_45b9c03879ae4c4d9330e450556e9179": {
+		"id": "AS_Camera_45b9c03879ae4c4d9330e450556e9179",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "1e293da2f15b49a09c84a101a257acb0"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___518f76f2a52c475999bea694c8997ab1",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "onCaptureLandScape",
+				"display": "onCaptureLandScape",
+				"inputparams": [
+					{
+						"name": "cameraObj",
+						"value": " eventobject"
+					}
+				],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

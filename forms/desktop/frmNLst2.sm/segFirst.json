@@ -1,0 +1,153 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item1"
+            }
+        },
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item2"
+            }
+        },
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item3"
+            }
+        },
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item4"
+            }
+        },
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item5"
+            }
+        },
+        {
+            "Image0fcecec8b82e747": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrgrite.png"
+            },
+            "lblFirst": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nested Inner List Item6"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segFirst",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b91cb8d7420e49ea98903fbae035462b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmNLst2",
+    "pf": "frmNLst2",
+    "retainselection": false,
+    "rowTemplateId": "b4c8dec7f3c54aeba0f2826b3e2ba6e6",
+    "rowcounter": 5,
+    "rowfocusskin": "s9c531acf77e427abe2c96b24fbb8d31",
+    "rowskin": "s997a1afeb0e4ada99a00f7711885b20",
+    "rowtemplate": "CopyFlexContainer0j581ba3f57e04e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0a1090385f74d318e7fd56bb1b1cbea",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0j581ba3f57e04e": "CopyFlexContainer0j581ba3f57e04e",
+        "Image0fcecec8b82e747": "Image0fcecec8b82e747",
+        "lblFirst": "lblFirst"
+    },
+    "zindex": 1
+}

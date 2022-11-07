@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sec31982e96943958461e214c36c80ba",
+    "_text_": "ButtonPerform Double Tap,Swipe and Longpress gestures in this form and observe corresponding images below.",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "Button07f231831496544",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eae51c1ffdca409cb725299635ed89a8",
+    "name": "kony.ui.Button",
+    "parent": "frmGestures",
+    "pf": "frmGestures",
+    "wType": "Button"
+}

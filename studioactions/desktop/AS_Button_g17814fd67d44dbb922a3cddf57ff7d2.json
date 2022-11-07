@@ -1,0 +1,35 @@
+{
+	"AS_Button_g17814fd67d44dbb922a3cddf57ff7d2": {
+		"id": "AS_Button_g17814fd67d44dbb922a3cddf57ff7d2",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "bf683016a2f74310befc2fabce0725c6"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_h12886e9cfd64636b0e78005f109935c",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "CalendarAddEvent",
+				"display": "CalendarAddEvent",
+				"inputparams": [
+					{
+						"name": "eventObj",
+						"value": " eventobject"
+					}
+				],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

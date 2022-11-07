@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9cd3a241caf43ab95dca0bc3b9cb5bb",
+    "_text_": "ButtonTitlebar with custom left & right buttons",
+    "_top_": {
+        "type": "string",
+        "value": "105dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "375dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn4",
+    "ide_onClick": "AS_Button_e622fdfdd4774f4a91762877119c36fb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a4f18133abcd4b3289a96298350430c5",
+    "name": "kony.ui.Button",
+    "parent": "frmTitlebar",
+    "pf": "frmTitlebar",
+    "wType": "Button"
+}

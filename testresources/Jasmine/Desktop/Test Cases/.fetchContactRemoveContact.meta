@@ -1,0 +1,12 @@
+{
+    "testCaseName": "fetchContactRemoveContact",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "usedBy": [
+        "deviceFeaturesSuite.js",
+        "allCases.js"
+    ],
+    "_currentForm": "frmContact",
+    "timeout": 0,
+    "userCode": true
+}

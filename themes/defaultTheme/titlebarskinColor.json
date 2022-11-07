@@ -1,0 +1,73 @@
+{
+    "android": {
+        "isForked": true
+    },
+    "background_gradient_bottom_color": "0000ff",
+    "background_gradient_top_color": "24d152ff",
+    "background_style": "vg",
+    "bg_type": "two",
+    "font_color": "333333",
+    "font_name": "Arial, Helvetica, sans-serif",
+    "font_size": "100",
+    "font_weight": "normal",
+    "ipad": {
+        "isForked": true
+    },
+    "iphone": {
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kuid": "sdd989a7daac47eca9e07c081652276f",
+    "spaan": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "spaandroidtablet": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "spaip": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "spaipad": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "spawindowstablet": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "spawinphone8": {
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_style": "plain",
+        "top_right_border_style": "plain"
+    },
+    "tabrcandroid": {
+        "isForked": true
+    },
+    "wType": "TitleBar",
+    "windows8": {
+        "isForked": true
+    },
+    "winphone8": {
+        "isForked": true
+    }
+}

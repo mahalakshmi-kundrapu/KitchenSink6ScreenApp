@@ -1,0 +1,30 @@
+{
+	"AS_Button_ha1550874f3944c0800add82b1818375": {
+		"id": "AS_Button_ha1550874f3944c0800add82b1818375",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "bfb35b596dda47cc9ea131db2d5e5b56"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_c522432b71424dd18da654e888bf24bd",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "sendSMS",
+				"display": "sendSMS",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10f9e8a6ed040b9b128e7460241929a",
+    "_text_": "Device Info",
+    "_top_": {
+        "type": "string",
+        "value": "56%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "btn9",
+    "ide_onClick": "AS_Button_i167ca4f488b4a27b90822c743c61369",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h66aba283b11455a968225e9115372b4",
+    "name": "kony.ui.Button",
+    "parent": "frmDvcFeatures",
+    "pf": "frmDvcFeatures",
+    "wType": "Button",
+    "zindex": 1
+}

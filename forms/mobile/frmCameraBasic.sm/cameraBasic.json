@@ -1,0 +1,96 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ae119379054c6586cc6b1d22930574",
+    "_text_": "Capture Image",
+    "_top_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "overlayConfig": {
+            "captureButtonText": "",
+            "overlayForm": "08be0390667847c4968d026006228752",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": "",
+            "tapAnywhere": true
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "cameraBasic",
+    "ide_onCapture": "AS_Camera_aeb248b9f9f34dfea547c061ea1381c3",
+    "info": null,
+    "iphone": {
+        "overlayConfig": {
+            "overlayForm": "08be0390667847c4968d026006228752",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": ""
+        }
+    },
+    "isvisible": true,
+    "kuid": "8f23d3f835da45b3ad392b66e2374fdc",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "frmCameraBasic",
+    "pf": "frmCameraBasic",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "winphone8": {
+        "overlayConfig": {
+            "overlayForm": "08be0390667847c4968d026006228752",
+            "tapAnywhere": true
+        }
+    }
+}

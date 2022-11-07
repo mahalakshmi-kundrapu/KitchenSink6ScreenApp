@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        77
+    ],
+    "_skin_": "s46c61b91aaf44619d236ecf4f8ca764",
+    "_title_": null,
+    "_width_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "ide_onDeviceBack": "AS_Form_ab50d1b6bbd8412e8e9accfd8ed14440"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "frmOptSeg",
+        "navHome"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "defaultunit": 0,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "WinMob",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmFormOptions",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "gc4a7f7e67ff47e98b6244b90a4335f5",
+                "leftBarButtonItems": [
+                    {
+                        "kuid": "b87188f2e5374574a36ddc422ebf0fa9",
+                        "leftButtonText": "Back",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "dc2bd09824104047a2b44c35b83d4b03",
+                        "onClick": "",
+                        "style": 0,
+                        "tintColor": "333333",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "7b330311198a481eb621fbdd775203db",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "spawinphone8",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

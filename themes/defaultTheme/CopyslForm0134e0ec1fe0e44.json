@@ -1,0 +1,50 @@
+{
+    "android": {
+        "isForked": true
+    },
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "ffffffff",
+    "iphone": {
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kuid": "sc523ca131884d67b2670e1f025ff95c",
+    "spaan": {
+        "bottom_left_border_color": "ffffffff",
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_color": "ffffffff",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_color": "ffffffff",
+        "top_left_border_style": "plain",
+        "top_right_border_color": "ffffffff",
+        "top_right_border_style": "plain"
+    },
+    "spaip": {
+        "bottom_left_border_color": "ffffffff",
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_color": "ffffffff",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_color": "ffffffff",
+        "top_left_border_style": "plain",
+        "top_right_border_color": "ffffffff",
+        "top_right_border_style": "plain"
+    },
+    "spawinphone8": {
+        "bottom_left_border_color": "ffffffff",
+        "bottom_left_border_style": "plain",
+        "bottom_right_border_color": "ffffffff",
+        "bottom_right_border_style": "plain",
+        "isForked": true,
+        "top_left_border_color": "ffffffff",
+        "top_left_border_style": "plain",
+        "top_right_border_color": "ffffffff",
+        "top_right_border_style": "plain"
+    },
+    "wType": "Form",
+    "winphone8": {
+        "isForked": true
+    }
+}

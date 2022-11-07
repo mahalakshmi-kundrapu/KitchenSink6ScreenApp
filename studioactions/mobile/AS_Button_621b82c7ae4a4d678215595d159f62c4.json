@@ -1,0 +1,29 @@
+{
+	"AS_Button_621b82c7ae4a4d678215595d159f62c4": {
+		"id": "AS_Button_621b82c7ae4a4d678215595d159f62c4",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__ide_onClick_39a609f7d086474aa9f166ebeb5fb9c6",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCalendarEvents",
+				"formKUID": "11b81a94539943378de2383f14cc281b",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Copybtn00e576e13a19c4d\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

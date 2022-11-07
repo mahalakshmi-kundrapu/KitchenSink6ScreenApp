@@ -1,0 +1,30 @@
+{
+	"AS_Button_je4f07ea404c47c6ad5929369eaf4fab": {
+		"id": "AS_Button_je4f07ea404c47c6ad5929369eaf4fab",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "e9b105def5774575ad539efe464de982"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_d4a6d9d1966e489abaf9e04b3b1f16e6",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "doTransactionsqlSelect",
+				"display": "doTransactionsqlSelect",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

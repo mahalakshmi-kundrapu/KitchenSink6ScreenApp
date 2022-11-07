@@ -1,0 +1,33 @@
+{
+	"AS_AppEvents_843ca58869bf495eaf7954eca006840a": {
+		"id": "AS_AppEvents_843ca58869bf495eaf7954eca006840a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___4f8e8ab1d75545e987256fea3ec9f069",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "createAppMenu",
+				"display": "createAppMenu",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": true,
+				"source": "module"
+			},
+			{
+				"id": "ADD_SNIPPET__496e998699ae4794882549fb21132509",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "count = 1;\nflag =0;\nflag1 =0;\nwebSQLFlag = 0;\nj = 0;",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

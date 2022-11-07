@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        96
+    ],
+    "_skin_": "s2569ba4728e4822bb4ea17f7c6bd3ae",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "breakpointInfo": {
+        "b1": {
+            "width": 1366
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "labl",
+        "lbl1",
+        "RadioButtonGroup083e657b73acd41",
+        "Copylbl0baf0062ac66b44",
+        "CopyRadioButtonGroup061975199fa1443",
+        "Copylbl0870172eca7c349",
+        "CopyRadioButtonGroup02d8ab108045247",
+        "Copylbl09b8eb79e06d646",
+        "CopyRadioButtonGroup0f75071373ead4c",
+        "Copylbl08da846af86fc49",
+        "CopyRadioButtonGroup0c215d7535d3648",
+        "CopyRadioButtonGroup0e150e1e54a564d",
+        "Copylbl0386a6fbf6b8f4e",
+        "Copylbl0abfa02d8388641",
+        "CopyRadioButtonGroup0cc92192e705e47",
+        "navHome"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmRdo",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "dda4728daf2241b5bad319582c3800ac",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

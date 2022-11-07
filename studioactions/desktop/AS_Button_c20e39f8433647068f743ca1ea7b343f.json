@@ -1,0 +1,30 @@
+{
+	"AS_Button_c20e39f8433647068f743ca1ea7b343f": {
+		"id": "AS_Button_c20e39f8433647068f743ca1ea7b343f",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "e9b105def5774575ad539efe464de982"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_e7ddd134cd4843528e13bfd9e5194cbc",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "doTransactionUpdate",
+				"display": "doTransactionUpdate",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

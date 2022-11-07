@@ -1,0 +1,167 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "label1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Form"
+                }
+            },
+            [
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Form with widgets"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Form with image background"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Form with Header & Footer"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Form with Titlebar skin"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ShowLoadingScreen(center)"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ShowLoadingScreen(full screen)"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Gestures"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Auto resizing of widgets on rotation"
+                    }
+                },
+                {
+                    "label2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Popup anchoring from bottom"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "99.90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowHeight_": "8.04248861911988%",
+    "_rowWidth_": "100%",
+    "_top_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.95%"
+    },
+    "containerweight": 100,
+    "counter": "08",
+    "defaultunit": 0,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "frmOptSeg",
+    "ide_onRowClick": "AS_Segment_8fe6bc67a9414d84907ef26854c3a2c3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "3d5c1afbc0ab4870a711fdf29f5b904c",
+    "layouttype": 4,
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmFormOptions",
+    "pf": "frmFormOptions",
+    "retainselection": false,
+    "rowTemplateId": "c438c9e4e74149aba4f733ddd770c32f",
+    "rowcounter": 8,
+    "rowfocusskin": "s9c531acf77e427abe2c96b24fbb8d31",
+    "rowskin": "sc0f2b0225bb40589ef0246e3cf2da6d",
+    "rowtemplate": "flex2frmOptSegfrmFormOptions",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "e19d3f33bcf1442cb02062dabc0efedf",
+    "sectionheaderskin": "s0a1090385f74d318e7fd56bb1b1cbea",
+    "sectionheadertemplate": "flex1frmOptSegfrmFormOptions",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flex1frmOptSegfrmFormOptions": "flex1frmOptSegfrmFormOptions",
+        "flex2frmOptSegfrmFormOptions": "flex2frmOptSegfrmFormOptions",
+        "label1": "label1",
+        "label2": "label2"
+    }
+}

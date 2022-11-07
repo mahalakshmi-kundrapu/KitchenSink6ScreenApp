@@ -1,0 +1,31 @@
+{
+	"AS_Button_ae36bc60ebd44596b6ef55a81f04bcc8": {
+		"id": "AS_Button_ae36bc60ebd44596b6ef55a81f04bcc8",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "0541625325e94dc3aa0a135469097cfd"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___7a67a1e5d8da40a5b293eb267cbad50d",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "doTransactionsqlSelect",
+				"display": "doTransactionsqlSelect",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

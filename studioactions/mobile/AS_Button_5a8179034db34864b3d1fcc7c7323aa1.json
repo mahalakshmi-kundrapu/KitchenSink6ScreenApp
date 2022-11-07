@@ -1,0 +1,45 @@
+{
+	"AS_Button_5a8179034db34864b3d1fcc7c7323aa1": {
+		"id": "AS_Button_5a8179034db34864b3d1fcc7c7323aa1",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "c9f016d7d51744bbbf5181f4fb03a50e"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___f0069347871e4a1c87efed997a264eb1",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "startmonitoringAcc",
+				"display": "startmonitoringAcc",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			},
+			{
+				"id": "NAVIGATE_TO_FORM___6fa4cd72ee874303890ecf40ade36dfb",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmAclMeter1",
+				"formKUID": "7de3dba64c774b7cbd2e7e40df8ea21c",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btn2\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

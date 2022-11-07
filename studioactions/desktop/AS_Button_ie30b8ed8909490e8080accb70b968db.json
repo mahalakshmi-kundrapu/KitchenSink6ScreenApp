@@ -1,0 +1,30 @@
+{
+	"AS_Button_ie30b8ed8909490e8080accb70b968db": {
+		"id": "AS_Button_ie30b8ed8909490e8080accb70b968db",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "d663e345ed6a4d09866882f803a8acb9"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_c78cc7d54cb8479fb2ac6bc20b57e748",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "addContact",
+				"display": "addContact",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

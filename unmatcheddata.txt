@@ -1,0 +1,474 @@
+\\frmSlider
+\\ parent id for widget - labl is  frmSlider
+var labl= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - lbl1 is  frmSlider
+var lbl1= {
+"left": "0%",
+"top": "1.97268588770865*",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\ parent id for widget - Slider0c3ed0b3aee0847 is  frmSlider
+var Slider0c3ed0b3aee0847= {
+"left": "0%",
+"top": "1.36570561456753*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - Copylbl024938b79d0b34a is  frmSlider
+var Copylbl024938b79d0b34a= {
+"left": "0%",
+"top": "2.88315629742033*",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\ parent id for widget - CopySlider0b2eb2ffb03a04c is  frmSlider
+var CopySlider0b2eb2ffb03a04c= {
+"left": "0%",
+"top": "2.42792109256449*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - Copylbl04f9533aea90e42 is  frmSlider
+var Copylbl04f9533aea90e42= {
+"left": "0%",
+"top": "0.606980273141123*",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\ parent id for widget - CopySlider0ed9720af87bb43 is  frmSlider
+var CopySlider0ed9720af87bb43= {
+"left": "0%",
+"top": "1.66919575113809*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - Copylbl09218f36ad5d44e is  frmSlider
+var Copylbl09218f36ad5d44e= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\ parent id for widget - CopySlider049bb958ca9b948 is  frmSlider
+var CopySlider049bb958ca9b948= {
+"left": "0%",
+"top": "2.42792109256449*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - Copylbl00bbe760fb06843 is  frmSlider
+var Copylbl00bbe760fb06843= {
+"left": "0%",
+"top": "1.97268588770865*",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\ parent id for widget - CopySlider0519b62d358a042 is  frmSlider
+var CopySlider0519b62d358a042= {
+"left": "0%",
+"top": "2.27617602427921*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - FlexContainer0f0310ead7bdb41 is  frmSlider
+var FlexContainer0f0310ead7bdb41= {
+"left": "0%",
+"top": "6.06980273141123*",
+"width": "100%",
+"height": "10.0151745068285%"
+};
+\\frmComplex
+\\ parent id for widget - flexHorizontal is  frmComplex
+var flexHorizontal= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "6.37329286798179%"
+};
+\\ parent id for widget - flexVertical is  frmComplex
+var flexVertical= {
+"left": "0%",
+"top": "0.910470409711684*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - FlexContainer02a18605e4b594f is  frmComplex
+var FlexContainer02a18605e4b594f= {
+"left": "0%",
+"top": "15.0227617602428%",
+"width": "100%",
+"height": "33.3839150227618%"
+};
+\\ parent id for widget - Segment0f72c49a8c8f345 is  frmComplex
+var Segment0f72c49a8c8f345= {
+"left": "0%",
+"top": "48.103186646434%",
+"width": "100%",
+"height": "100%"
+};
+\\frmGestures
+\\ parent id for widget - Button07f231831496544 is  frmGestures
+var Button07f231831496544= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "9.25644916540212%"
+};
+\\ parent id for widget - lblresult is  frmGestures
+var lblresult= {
+"left": "0%",
+"top": "0.606980273141123*",
+"width": "100%",
+"height": "11.9878603945372%"
+};
+\\ parent id for widget - imgGes is  frmGestures
+var imgGes= {
+"left": "0%",
+"top": "2.57966616084977*",
+"width": "100%",
+"height": "28.6798179059181%"
+};
+\\frmForm
+\\ parent id for widget - lblHeading is  frmForm
+var lblHeading= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - lblUsername is  frmForm
+var lblUsername= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - TextFieldName is  frmForm
+var TextFieldName= {
+"left": "0%",
+"top": "13.9605462822458%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - lblPassword is  frmForm
+var lblPassword= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - TextFieldPassword is  frmForm
+var TextFieldPassword= {
+"left": "0%",
+"top": "25.948406676783%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - lblCountry is  frmForm
+var lblCountry= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - listboxCountry is  frmForm
+var listboxCountry= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - lblDate is  frmForm
+var lblDate= {
+"left": "0%",
+"top": "44.0060698027314%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - calen is  frmForm
+var calen= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - lblGender is  frmForm
+var lblGender= {
+"left": "0%",
+"top": "55.9939301972686%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - RadioButtonGroup1 is  frmForm
+var RadioButtonGroup1= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - lblTerms is  frmForm
+var lblTerms= {
+"left": "0%",
+"top": "67.9817905918058%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\ parent id for widget - TextArea1 is  frmForm
+var TextArea1= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "26.2518968133536%"
+};
+\\ parent id for widget - CheckBoxGroup0a43fcf67c4f148 is  frmForm
+var CheckBoxGroup0a43fcf67c4f148= {
+"left": "0%",
+"top": "100%",
+"width": "100%",
+"height": "6.06980273141123%"
+};
+\\frmTitlebar
+\\ parent id for widget - btn1 is  frmTitlebar
+var btn1= {
+"left": "0%",
+"top": "0%",
+"width": "91.2408759124088%",
+"height": "5.31107738998483%"
+};
+\\ parent id for widget - btn2 is  frmTitlebar
+var btn2= {
+"left": "0%",
+"top": "0*",
+"width": "91.2408759124088%",
+"height": "5.31107738998483%"
+};
+\\ parent id for widget - btn3 is  frmTitlebar
+var btn3= {
+"left": "0%",
+"top": "0*",
+"width": "91.2408759124088%",
+"height": "5.31107738998483%"
+};
+\\ parent id for widget - btn4 is  frmTitlebar
+var btn4= {
+"left": "0%",
+"top": "0*",
+"width": "91.2408759124088%",
+"height": "5.31107738998483%"
+};
+\\frmTitleBar1
+\\ parent id for widget - Label011a531ddd2ce43 is  frmTitleBar1
+var Label011a531ddd2ce43= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "5.76631259484067%"
+};
+\\frmHdrFooter
+\\ parent id for widget - lblHeader is  frmHdrFooter
+var lblHeader= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "7.28376327769347%"
+};
+\\ parent id for widget - TextArea1 is  frmHdrFooter
+var TextArea1= {
+"left": "0%",
+"top": "6.52503793626707%",
+"width": "100%",
+"height": "15.7814871016692%"
+};
+\\ parent id for widget - CopylblHeader074e3196050a044 is  frmHdrFooter
+var CopylblHeader074e3196050a044= {
+"left": "0%",
+"top": "28.6798179059181*",
+"width": "100%",
+"height": "7.28376327769347%"
+};
+\\frmImgBck
+\\ parent id for widget - lbl1 is  frmImgBck
+var lbl1= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "3.9453717754173%"
+};
+\\frmTitlebar2
+\\ parent id for widget - Label011a531ddd2ce43 is  frmTitlebar2
+var Label011a531ddd2ce43= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "3.64188163884674%"
+};
+\\frmTitleBar3
+\\ parent id for widget - Label011a531ddd2ce43 is  frmTitleBar3
+var Label011a531ddd2ce43= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "5.15933232169954%"
+};
+\\frmTabs
+\\ parent id for widget - label1 is  frmTabs
+var label1= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.95295902883156%"
+};
+\\ parent id for widget - btn1 is  frmTabs
+var btn1= {
+"left": "0%",
+"top": "1.06221547799697*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn2 is  frmTabs
+var btn2= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn3 is  frmTabs
+var btn3= {
+"left": "0%",
+"top": "25.948406676783%",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn6 is  frmTabs
+var btn6= {
+"left": "0%",
+"top": "0.606980273141123*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn5 is  frmTabs
+var btn5= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn4 is  frmTabs
+var btn4= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn7 is  frmTabs
+var btn7= {
+"left": "0%",
+"top": "58.5735963581184%",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\ parent id for widget - btn8 is  frmTabs
+var btn8= {
+"left": "0%",
+"top": "0*",
+"width": "100%",
+"height": "8.04248861911988%"
+};
+\\frmTabWid
+\\ parent id for widget - label1 is  frmTabWid
+var label1= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.95295902883156%"
+};
+\\ parent id for widget - Label0fef6ed986c1f46 is  frmTabWid
+var Label0fef6ed986c1f46= {
+"left": "0%",
+"top": "1.06221547799697*",
+"width": "100%",
+"height": "3.9453717754173%"
+};
+\\ parent id for widget - Tabpane is  frmTabWid
+var Tabpane= {
+"left": "0%",
+"top": "6.06980273141123*",
+"width": "100%",
+"height": "100%"
+};
+\\frmTabWid2
+\\ parent id for widget - label1 is  frmTabWid2
+var label1= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.95295902883156%"
+};
+\\ parent id for widget - Label0fef6ed986c1f46 is  frmTabWid2
+var Label0fef6ed986c1f46= {
+"left": "0%",
+"top": "1.06221547799697*",
+"width": "100%",
+"height": "3.9453717754173%"
+};
+\\ parent id for widget - Tabpane is  frmTabWid2
+var Tabpane= {
+"left": "0%",
+"top": "6.06980273141123*",
+"width": "100%",
+"height": "100%"
+};
+\\frmToggleTabs
+\\ parent id for widget - label1 is  frmToggleTabs
+var label1= {
+"left": "0%",
+"top": "0%",
+"width": "100%",
+"height": "8.95295902883156%"
+};
+\\ parent id for widget - Label0fef6ed986c1f46 is  frmToggleTabs
+var Label0fef6ed986c1f46= {
+"left": "0%",
+"top": "1.06221547799697*",
+"width": "100%",
+"height": "3.9453717754173%"
+};
+\\ parent id for widget - Tabpane is  frmToggleTabs
+var Tabpane= {
+"left": "0%",
+"top": "6.06980273141123*",
+"width": "100%",
+"height": "40.0606980273141%"
+};
+\\ parent id for widget - CopyLabel0ee35e02ca15548 is  frmToggleTabs
+var CopyLabel0ee35e02ca15548= {
+"left": "0%",
+"top": "0.606980273141123*",
+"width": "100%",
+"height": "7.28376327769347%"
+};
+\\ parent id for widget - CopyTabpane0f684715f383541 is  frmToggleTabs
+var CopyTabpane0f684715f383541= {
+"left": "0%",
+"top": "67.8300455235205%",
+"width": "100%",
+"height": "40.0606980273141%"
+};
+var Image0a37ff2671d3940= {
+"left": "0dp",
+"top": "0dp",
+"width": "411dp",
+"height": "61dp"
+};
+var Image0a37ff2671d3940= {
+"left": "0dp",
+"top": "0dp",
+"width": "411dp",
+"height": "106dp"
+};

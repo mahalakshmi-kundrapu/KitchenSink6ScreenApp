@@ -1,0 +1,105 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTabPane",
+    "DNDConfig": null,
+    "_activeTabsBackUp": [],
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-0.06%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_top_": {
+        "type": "string",
+        "value": "67.75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "activefocusskin": "sa553f4f489044e4af6bf199f67a1c92",
+    "activeskin": "sdfcaf7d9ed842e4a32008b8b096dacd",
+    "activetab": 0,
+    "activetabs": [
+        0
+    ],
+    "allboxes": [],
+    "android": {
+        "viewType": "collapsibleview"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "CopyTab08a4ad0ecd2b14f",
+        "CopyTab0aecda246ab8a40",
+        "CopyTab000045e6c9d244b"
+    ],
+    "collapsedimage": "tabdown.png",
+    "containerweight": 100,
+    "expandedimage": "tabup.png",
+    "id": "CopyTabpane0f684715f383541",
+    "imageposition": "right",
+    "inactiveskin": "s021aac3a3164c69b4be56fa123b7929",
+    "info": null,
+    "iphone": {
+        "viewType": "collapsibleview"
+    },
+    "isvisible": true,
+    "kuid": "3d35f50547ed4263aef4a6ac123683ae",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "frmToggleTabs",
+    "pf": "frmToggleTabs",
+    "screenlevelwidget": false,
+    "spa": {
+        "viewType": "collapsibleview"
+    },
+    "tabnamealignment": "left",
+    "toggletabs": true,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "collapsedImage": "tabdown.png",
+            "expandedImage": "tabup.png",
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": true
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true,
+            "pageOffDotImage": "",
+            "pageOnDotImage": ""
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerPosition": "top",
+            "image1": "tableftarrow.png",
+            "image2": "tabrightarrow.png"
+        }
+    },
+    "viewtype": "tabview",
+    "wType": "TabPane",
+    "winphone8": {
+        "viewType": "collapsibleview"
+    },
+    "zindex": 1
+}

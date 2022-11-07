@@ -1,0 +1,30 @@
+{
+	"AS_Button_c6b684a04a9746258fa28966cf9db783": {
+		"id": "AS_Button_c6b684a04a9746258fa28966cf9db783",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "e9b105def5774575ad539efe464de982"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_g61f1d1dc46549f5a282e7022b9b3041",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "createDB",
+				"display": "createDB",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

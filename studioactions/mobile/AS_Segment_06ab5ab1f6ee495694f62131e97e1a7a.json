@@ -1,0 +1,42 @@
+{
+	"AS_Segment_06ab5ab1f6ee495694f62131e97e1a7a": {
+		"id": "AS_Segment_06ab5ab1f6ee495694f62131e97e1a7a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "number",
+				"name": "sectionNumber"
+			},
+			{
+				"datatype": "number",
+				"name": "rowNumber"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "d0e2b3e96eb84179b1650e4511792a06"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___8fbd3934ee6f459fa25032e101556bd7",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmNLst2",
+				"formKUID": "710fb2237f944779be48dde2ef57a79f",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"segFirst\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

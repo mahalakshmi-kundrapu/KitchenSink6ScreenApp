@@ -1,0 +1,31 @@
+{
+	"AS_Button_2505c71e395a48118dc66598acbfebb2": {
+		"id": "AS_Button_2505c71e395a48118dc66598acbfebb2",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "d5196ba1beac4591b7be4620c59325cd"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___34c43c66222b4405a19ccb777e05d8e7",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "geoPosition",
+				"display": "geoPosition",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

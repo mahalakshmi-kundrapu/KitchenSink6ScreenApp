@@ -1,0 +1,34 @@
+{
+	"AS_Button_95b6ab7ff8ff44b3887306a1ef5765d2": {
+		"id": "AS_Button_95b6ab7ff8ff44b3887306a1ef5765d2",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "d5196ba1beac4591b7be4620c59325cd"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___a1f37e8bf6414f7f932242aabeb14a84",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCrypto",
+				"formKUID": "47007cd1a5614128b130b4bfa06e39c0",
+				"mappings": {},
+				"mappingsOrder": [],
+				"parentId": "",
+				"callbackType": null,
+				"enableMappingEditor": true,
+				"package": "",
+				"navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Copybtn048573e68991245\"\n    }\n}",
+				"isCustomInput": false
+			}
+		]
+	}
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.10%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s6f95fc1976a43ce9fa19acdcc282da2",
+    "_text_": "DataGrid With Row Skin and Row Focus Skin",
+    "_top_": {
+        "type": "string",
+        "value": "106.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Copylbl015d75656747544",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "j9ef9bbb0fc34cb5a20e87413ac45953",
+    "name": "kony.ui.Label",
+    "parent": "frmDatagrd",
+    "pf": "frmDatagrd",
+    "spabb": {
+        "render": true
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

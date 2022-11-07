@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ae119379054c6586cc6b1d22930574",
+    "_text_": "Landscape",
+    "_top_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "captureorientation": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "CopyCamera01276e423ab8e40",
+    "ide_onCapture": "AS_Camera_h33ff3350fd64abdb795abf62708c4d4",
+    "imageFormat": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "f2b35c3e101d4096a13687291aad3954",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "frmCamOrient",
+    "pf": "frmCamOrient",
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}

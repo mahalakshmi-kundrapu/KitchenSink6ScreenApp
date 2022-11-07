@@ -1,0 +1,12 @@
+{
+    "testCaseName": "deviceInfo",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "_currentForm": "frmDvcFeatures",
+    "timeout": 0,
+    "usedBy": [
+        "deviceFeaturesSuite.js",
+        "allCases.js"
+    ],
+    "userCode": true
+}

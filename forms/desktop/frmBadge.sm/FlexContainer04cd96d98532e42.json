@@ -1,0 +1,55 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.05%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdb0f8335d2d424e894e64822fb81596",
+    "_top_": {
+        "type": "string",
+        "value": "9.03%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Label04860114083dc43"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer04cd96d98532e42",
+    "info": null,
+    "isvisible": true,
+    "kuid": "hb5f1a8f0bbc4426b9829daa44c0cdfd",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmBadge",
+    "pf": "frmBadge",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

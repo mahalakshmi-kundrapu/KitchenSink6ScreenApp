@@ -1,0 +1,31 @@
+{
+	"AS_Form_c572884889fb44e5874fd66085a8002d": {
+		"id": "AS_Form_c572884889fb44e5874fd66085a8002d",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "fe2cda6c38314a54806b623ea442b766"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___2ab2f690971145238216aa79ca4046a5",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "GenericGestureHandler",
+				"display": "GenericGestureHandler",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

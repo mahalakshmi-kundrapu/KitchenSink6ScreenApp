@@ -1,0 +1,26 @@
+{
+	"AS_Form_g739c95674f948b9a6606581f76e9b7b": {
+		"id": "AS_Form_g739c95674f948b9a6606581f76e9b7b",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "5d8192dd453048509f4339c42ead2964"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_c83a35b0443541af9fd7231827194a88",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var currentForm = kony.application.getCurrentForm();\nif (currentForm != frmHome) {\n  currentForm.destroy();\n}\nfrmHome.show();",
+				"parentId": null
+			}
+		]
+	}
+}

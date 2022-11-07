@@ -1,0 +1,35 @@
+{
+	"AS_Camera_a48f871e1d924b41989e5eceaa8a2d85": {
+		"id": "AS_Camera_a48f871e1d924b41989e5eceaa8a2d85",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "f000ce9e7fcb484dab666d0b0f183f93"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onCapture_ad65eb7446f04db491568733a748cf28",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "onCapturePublic",
+				"display": "onCapturePublic",
+				"inputparams": [
+					{
+						"name": "cameraObj",
+						"value": " eventobject"
+					}
+				],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

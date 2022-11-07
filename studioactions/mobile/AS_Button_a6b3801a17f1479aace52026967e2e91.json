@@ -1,0 +1,31 @@
+{
+	"AS_Button_a6b3801a17f1479aace52026967e2e91": {
+		"id": "AS_Button_a6b3801a17f1479aace52026967e2e91",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "9d20c8f5069545a397c61df6b9cbf620"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___e36e03e870f345c3ac53c2bdfc1dbe95",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "findContact",
+				"display": "findContact",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

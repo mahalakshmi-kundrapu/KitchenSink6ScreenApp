@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c008979f15443b9070a4a2de4da7d8",
+    "_text_": "Generate hash value (MD4 algo)",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "CopyButton022c23a4f4dc047",
+    "ide_onClick": "AS_Button_gc3799cdd03d4802a7446fd3904b5cae",
+    "info": null,
+    "isvisible": true,
+    "kuid": "edc21718308e4f7dbd4348c8af342503",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexContainer07bc6dfa058704e",
+    "pf": "frmCrypto",
+    "wType": "Button",
+    "zindex": 1
+}

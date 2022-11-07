@@ -1,0 +1,90 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s221b06c573c4052a053b9b145ada2e0",
+    "_top_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "groupcells": false,
+    "id": "listboxCountry",
+    "info": null,
+    "isvisible": true,
+    "kuid": "78341cfda8d6450c9472a7f049213cfe",
+    "masterdata": [
+        [
+            "lb1",
+            "Please Select"
+        ],
+        [
+            "lb2",
+            "Australia"
+        ],
+        [
+            "lb3",
+            "India"
+        ],
+        [
+            "Key516",
+            "Japan"
+        ],
+        [
+            "Key430",
+            "Singapore"
+        ],
+        [
+            "Key585",
+            "United Kingdom"
+        ],
+        [
+            "Key281",
+            "United States"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Please Select"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

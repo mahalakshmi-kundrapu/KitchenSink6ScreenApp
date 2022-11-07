@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "84dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbe01895b4b0400c8d54ac946fcc3571",
+    "_text_": "Spa Test Cases",
+    "_top_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3696caec908494cb80266d92b056b70",
+    "id": "Button0afac62645be74d",
+    "ide_onClick": "AS_Button_f95e0e0252824ea78370c529dceac3fc",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d7aea73ba0394e74914d701050bdfbb9",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

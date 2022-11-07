@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s14ea99a36a04f2fbf07d8c8199c96b6",
+    "_text_": "Please enter the index to read the key",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyfrmLocalLblSetItem095bddcef6c7a41",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ba3c56e6cd40475dbe02a2b5d0e63ece",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer05627508e30b24f",
+    "pf": "frmLocalStore",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

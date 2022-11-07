@@ -1,0 +1,30 @@
+{
+	"AS_Button_e3d23ac02e4a413f97ab904d42f6bf68": {
+		"id": "AS_Button_e3d23ac02e4a413f97ab904d42f6bf68",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": null,
+			"KUID": "a541a1b2ae224a2ab9da06185b6588eb"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_onClick_b54ae0b5bab24605b4a23acd3a82a676",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "BadgeIncrease",
+				"display": "BadgeIncrease",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": null,
+				"source": "module"
+			}
+		]
+	}
+}

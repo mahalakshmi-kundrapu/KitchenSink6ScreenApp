@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd3ab7c702304eba91757d2b893f2873",
+    "_top_": {
+        "type": "string",
+        "value": "29%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "groupcells": true,
+    "id": "CopydefaultLb0254c1dd74a0045",
+    "info": null,
+    "iphone": {
+        "psp": {},
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "c77719bbbe3e403cab659bab7c7626f9",
+    "masterdata": [
+        [
+            "lb1",
+            "Listbox One"
+        ],
+        [
+            "lb2",
+            "Listbox Two"
+        ],
+        [
+            "lb3",
+            "Listbox Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "frmLstBox",
+    "pf": "frmLstBox",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Listbox One"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
